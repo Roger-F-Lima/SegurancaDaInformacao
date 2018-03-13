@@ -4,7 +4,7 @@ tomadas duas a duas (bloco bigrâmico), de acordo com regras aplicadas a uma gra
 criada por Charles Wheatstone, a cifra Playfair foi apresentada em 1854 em um jantar oferecido pelo lorde Granville. [Ver mais](https://pt.wikipedia.org/wiki/Cifra_Playfair)
 ## Equipe
 [Jardel Gonçalves](https://github.com/JardelGoncalves/)<br>
-[Mara Vitória](https://github.com/)
+[Mara Vitória](https://github.com/maravitoria04/)
 <br>
 
 ## Desenvolvimento
