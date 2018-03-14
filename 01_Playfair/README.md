@@ -8,7 +8,7 @@ criada por Charles Wheatstone, a cifra Playfair foi apresentada em 1854 em um ja
 <br>
 
 ## O que você sabe fazer do que está sendo apresentado?
-Da solução apresentada da implementação da Cifra Playfair, sei fazer tudo.
+Da solução apresentada da Cifra Playfair, sei fazer tudo.
 
 ## Como vocês dividiram/fizeram a atividade?
 A ideia inicial era de fato fazermos tudo junto, porem de inicio tivemos que passar um tempinho revisando algumas coisas de Python pois a Mara não lembrava muitas coisas de python (por conviver mais com Java, e decidirmos que em python a implementação seria mais simples). Por questões de tempo/distancia, a atividade foi realizada da seguinte forma: juntos fizemos as funçes `montar_matriz()`,`imprimir_matriz_5x5`, `monta_pares()` e `cifrar()`, as demais funções eu fiz só.<br>
