@@ -4,7 +4,7 @@
 Foram respondido todas as questões propostas.
 ## Com quem você fez.
 [Mara Vitoria](https://github.com/maravitoria04)<br>
-Sara Cibelle (Coomo ouvinte)
+Sara Cibelle (Coomo ouvinte)<br>
 E eu, [Jardel Goncalves](https://github.com/JardelGoncalves)<br>
 
 ## Como vocês dividiram/fizeram a atividade.
@@ -12,8 +12,13 @@ Como tinham dois notebooks, dividimos 4 questões pra cada (duas pessoas) e a ou
 ## O que você aprendeu e o que ainda tem dificuldade.
 Algumas questões eu ja tinha um conhecimento prévio, outras eu adquiri conhecimentos porem tenho duvida ainda na questão do KDC na prática.
 ## Quanto tempo você gastou no total na atividade.
-Aproximadamente 40 minutos.<br><br>
-
+Aproximadamente 40 minutos.
+<br>
+<br>
+<br>
+<br>
+# RESPOSTAS
+<br>
 
 ## 1 - O que são chaves simetrica e assimetrica?<br>
 São  chaves usadas  para criptografar e descriptografar dados  provendo segurança na comunicação. Na prática, representa um segredo compartilhado entre duas ou mais partes que pode ser usado para manter uma  informação privada.<br>
