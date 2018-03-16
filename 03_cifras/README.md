@@ -1,14 +1,23 @@
 # Respostas das perguntas da aula s03e02
 
 ## O que foi feito da atividade e o que não foi feito.
+Foram respondido todas as questões propostas.
 ## Com quem você fez.
-## O que você sabe fazer do que está sendo apresentado.
+Eu ([Jardel Goncalves])(https://github.com/JardelGoncalves)<br>
+[Mara Vitoria](https://github.com/maravitoria04)<br>
+Sara Cibelle (Coomo ouvinte)
 ## Como vocês dividiram/fizeram a atividade.
+Como tinham dois notebooks, dividimos 4 questões pra cada (duas pessoas) e a outra escrevia no caderno, no meu caso eu pesquisei quatro questões.
 ## O que você aprendeu e o que ainda tem dificuldade.
+Algumas questões eu ja tinha um conhecimento prévio, outras eu adquiri conhecimentos porem tenho duvida ainda na questão do KDC na prática.
 ## Quanto tempo você gastou no total na atividade.
+Aproximadamente 40 minutos.
 
 
 
+<br>
+<br>
+<br>
 ## 1- O que são chaves simetrica e assimetrica?
 São  chaves usadas  para criptografar e descriptografar dados  provendo segurança na comunicação. Na prática, representa um segredo compartilhado entre duas ou mais partes que pode ser usado para manter uma  informação privada.<br>
 
