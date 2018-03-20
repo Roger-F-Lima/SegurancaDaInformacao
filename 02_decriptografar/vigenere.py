@@ -81,7 +81,7 @@ def brutalforce():
                                         ultima_chave.close()
 
                                         decifrado=decifrar(texto,chave)
-                                        if decifrado.find(" AMOR ") > 0:
+                                        if decifrado.find("AMOR") > 0:
                                             possiveis.writelines("CHAVE: %s\nTEXTO:%s\nDATA:%s\n=====================\n"%(chave,decifrado,time.ctime()))
 
         data_final = "Finalizou: ", time.ctime()
