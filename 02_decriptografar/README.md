@@ -9,13 +9,13 @@ A cifra de Vigenère é um método de criptografia que usa uma série de diferen
 Apesar de precisar apenas da parte de descriptografia, tivemos que fazer a implementação da criptografia para de fato entender melhor o funcionamento do algoritmo para de fato apresentarmos a função de descriptografia, tendo isso em mente sei implementar completamente a cifra de vigenere.
 
 ## Como vocês dividiram/fizeram a atividade?
-Tiramos um dia a tarde para fazermos o algoritmo juntos, por ser mais simples conseguimos terminar no mesmo dia, juntos implementamos`cifrar(m,k)` e `descifrar(mc,k)`, executamos o codigo que demorou um poquinho para acharmos a chave (muito usual na vida de um universitario da UFC). Quando cheguei em casa, querendo melhorar a execução e se previnindo de alguns erros que possa vir acontecer, implementei outra função `brutalforce()` onde trabalhei com arquivos em python para criar uns backups de possiveis chaves, ultima chave testada e o tempo de execução.<br>
+Tiramos um dia a tarde para fazermos o algoritmo juntos, por ser mais simples conseguimos terminar no mesmo dia, juntos implementamos`cifrar(m,k)` e `descifrar(mc,k)`, executamos o codigo que demorou um poquinho para acharmos a chave (muito usual na vida de um universitario da UFC). Como a execução demorava, decidimos usar arquivos para fazer uns backups, como possiveis chaves e ultima chave testada, e para isso decidimos implementar a função `brutalforce()` que mexe com arquivos em python para realiar essas funcionalidades<br>
 
 ## O que você aprendeu e o que ainda tem dificuldade?
 Fazia tempo que não trabalho com arquivos então foi bom para dar uma revisada sobre isso e para começar a estudar expressões regulares. Minha dificuldade é trabalhar com expressões regulares onde não consegui trabalhar com elas em python.<br>
 
 ## Quanto tempo você gastou no total na atividade?
-gastamos 3 horas para implementar, agora para achar a chave... Foi tempo, menos de 24 horas.
+Gastamos 3 horas para implementar, agora para achar a chave... Foi tempo, menos de 24 horas.
 
 ## Informações
 Foi utilizado a versão 3.x do Python, caso utilize a versão 2.x erros por causa de palavras acentuadas podem vir ocorrer para 
