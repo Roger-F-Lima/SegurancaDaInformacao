@@ -65,16 +65,15 @@ def brutalforce():
     texto = cifrado.read()
     tempo_execucao.write(data_inicial)
     alfabeto="ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-    meio="ABCDEFGHIJKLMN"
     try:
         for l1 in alfabeto:
             for l2 in alfabeto:
                 for l3 in alfabeto:
                     for l4 in alfabeto:
-                        for l5 in meio:
-                            for l6 in meio:
-                                for l7 in meio:
-                                    for l8 in meio:
+                        for l5 in alfabeto:
+                            for l6 in alfabeto:
+                                for l7 in alfabeto:
+                                    for l8 in alfabeto:
                                         ultima_chave = open("ultima_chave.txt", "w")
                                         chave="%s%s%s%s%s%s%s%s" %(l1,l2,l3,l4,l5,l6,l7,l8)
                                         ultima_chave.write(chave)
