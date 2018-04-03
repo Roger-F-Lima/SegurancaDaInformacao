@@ -1,3 +1,18 @@
+## Relatório
+Está prática foi realizada por [Mara Vitória](http://github.com/maravitoria04/) e Eu.<br>
+Fiz todos os passos da pratica exigida pelo professor, não tive dificuldaddes, fizemos todos os passo em computadores diferentes e estavamos juntos ou seja, não houve divisão. Por ja ter brincado com o GPG não tive dificuldades mais foi bom pois não sabia realizar o passo de revogação de chaves.<br>
+O tempo gasto foi poucos minutos, tipo de 20 a 30 minutos.
+<br>
+Os passos realizados podem ser visto na seção abaixo.
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+
 # Prática de GPG
 
 ## Criar Chave, Adicionar Foto e Publicar chave no Servidor
