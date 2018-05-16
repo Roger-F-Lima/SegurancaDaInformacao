@@ -61,8 +61,11 @@ Na saida das informações das colunas da tabela `users` a ferramenta cria um ar
 
 ![imagem11](https://github.com/JardelGoncalves/SegurancaDaInformacao/blob/master/Pratica01/Imagens/14.png)
 
-Na figura abaixo podemos ver a saida desse arquivo.
+Na figura abaixo podemos ver o arquivo,e as informações contidas nele
 
 ![imagem12](https://github.com/JardelGoncalves/SegurancaDaInformacao/blob/master/Pratica01/Imagens/15.png)
+
+![imagem12](https://github.com/JardelGoncalves/SegurancaDaInformacao/blob/master/Pratica01/Imagens/granfinaly.png)
+
 
 **Todos os arquivos criado pela ferramenta estão disponiveis no direotio sqlmap deste git.**
