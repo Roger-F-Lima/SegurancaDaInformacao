@@ -3,7 +3,7 @@
 ## Dupla:
 Jardel Gonçalves Ferreira
 
-Mara Vitória Soares de Lima
+Mara Vitória Soares de Lima [github](https://github.com/mara04/)
 
 ## O QUE É?
 
