@@ -11,7 +11,7 @@ Mara Vitória Soares de Lima
 
 ## VANTAGENS E DESVANTAGENS
 
-## INSTAÇÕES
+## INSTALAÇÕES
 
 ### SERVIDOR ZABBIX
 Utilizamos uma maquina com o Debina 9
