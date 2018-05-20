@@ -87,5 +87,52 @@ Reinicie o serviço apache2
 ```
 service apache2 restart
 ```
-#### Opção de Instalação via Script:
+#### *Opção de Instalação via Script:
+[Acessar](https://github.com/JardelGoncalves/script-install-zabbix-debian)
+
+Feito a instalação, vamos acessar a interface web para concluir de fato a instalação
+```
+http://seu_ip/zabbix/
+```
+#### Primeira Tela:
+
+![imagem1](imagens/09.png)
+
+#### Segunda Tela:
+
+![imagem1](imagens/11.png)
+
+**Possiveis Erros**
+
+![imagem1](imagens/10.png)
+
+***Corrigindo erro***
+```
+apt-get install php-mbstring php-bcmath php-xmlwriter php-xmlreader
+service apache2 restart
+```
+#### Terceira Tela
+Preencha os dados corretamente
+![imagem1](imagens/12.png)
+
+#### Quarta Tela
+Deixe as informações padrões, apenas adicione um `nome`
+![imagem1](imagens/13.png)
+
+#### Quinta Tela
+
+![imagem1](imagens/14.png)
+
+#### Sexta Tela
+Instalação concluida
+![imagem1](imagens/15.png)
+
+#### Tela de Login
+Para acessar, o zabbix define as seguintes crenciais por padrão:
+`Username: Admin` e `Password: zabbix`
+![imagem1](imagens/16.png)
+
+
+
+
 ### MAQUINA CLIENTE (zabbix-agent)
