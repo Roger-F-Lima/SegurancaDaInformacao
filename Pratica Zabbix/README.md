@@ -136,3 +136,44 @@ Para acessar, o zabbix define as seguintes crenciais por padrão:
 
 
 ### MAQUINA CLIENTE (zabbix-agent)
+Utilizamos uma maquina Ubuntu Server 16.04
+
+Tornando superusuário:
+```
+sudo su
+```
+
+Baixando pacote:
+```
+wget http://repo.zabbix.com/zabbix/3.2/ubuntu/pool/main/z/zabbix-release/zabbix-release_3.2-1+xenial_all.deb
+```
+Instalando pacote:
+```
+dpkg -i zabbix-release_3.2-1+xenial_all.deb
+apt-get update
+apt-get install zabbix-agent
+```
+
+Configurando agent:
+```
+nano /etc/zabbix/zabbix_agentd.conf
+```
+Procure as linhas `Server=` e `ServerActive=`, caso elas estejam comentadas, descomente-as e faça a seguinte configuração:
+```
+Server=ip-do-servidor
+...
+ServerActive=ip-do-servidor
+```
+
+Verifique se o agent está rodando:
+```
+service zabbix-agent status
+```
+Caso ele esteja dê o seguinte comando:
+```
+service zabbix-agent restart
+```
+Caso contrário:
+```
+service zabbix-agent start
+```
