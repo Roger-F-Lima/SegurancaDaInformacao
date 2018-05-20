@@ -1,5 +1,10 @@
 # PRÁTICA ZABBIX
 
+## Dupla:
+Jardel Gonçalves Ferreira
+
+Mara Vitória Soares de Lima
+
 ## O QUE É?
 
 ## POR QUE MONITORAR?
@@ -177,3 +182,6 @@ Caso contrário:
 ```
 service zabbix-agent start
 ```
+## Matérial de apoio
+
+## Atividade
