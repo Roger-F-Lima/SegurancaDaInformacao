@@ -7,9 +7,21 @@ Mara Vitória Soares de Lima [Github](https://github.com/maravitoria04/)
 
 ## O QUE É?
 
-## POR QUE MONITORAR?
+Zabbix é uma ferramenta que pode ser utilizada para monitorar toda sua infraestrutura de rede, além de aplicações. É um software de código aberto criado por Alexei Vladishev, Ele é projetado para monitorar disponibilidade e desempenho dos componentes de uma infraestrutura de T.I, sendo capaz também de monitorar um número ilimitado de métricas e fornecer análises sofisticadas sobre a saúde da infraestrutura de T.I. Sendo capaz de identificar a "fonte" de um problema nos sistemas de T.I, permite aos usuários Zabbix (SysOps) agirem rapidamente, reduzindo os custos associados com a paralisação.
 
-## VANTAGENS E DESVANTAGENS
+Pode ser proativo, percebendo problemas em tempo hábil, ele monitora todo e qualquer dispositivo da infraestrutura de T.I, monta mapas/telas que possibilitem entender/resolver problemas rapidamente, cria uma documentação viva e atualizável de toda a infraestrutura, criar visões baseadas no objetivo de quem “assistirá” o monitoramento (níveis do suporte de T.I, gerência empresarial, parceiros de negócio e etc)
+
+O Zabbix possui um vasto número de usuários ao redor do mundo. No Brasil, existem grupos de usuários distribuídos entre a Lista de e-mails oficial, grupo no Facebook e grupo no Telegram.
+
+### Componentes
+De acordo com o [Wikipedia](https://pt.wikipedia.org/wiki/Zabbix)
++ **Zabbix Server** – Este é o centro do Software Zabbix. O servidor pode verificar remotamente os serviços de rede (como servidores web e servidores de e-mail), utilizando controles simples. Ele é o componente central para o qual os agentes reportam a disponibilidade, integridade de informações e estatísticas dos servidores. É nele que toda a configuração, estatísticas e dados operacionais são armazenados, sendo o componente que participará ativamente alertando os administradores quando surgirem problemas em qualquer um dos sistemas monitorados;
++ **Zabbix Proxy** – É uma parte opcional da implantação do Zabbix. O Proxy coleta dados de desempenho e disponibilidade, em nome do Zabbix Server. Todos os dados coletados localmente são transferidos para o Zabbix Server Proxy. O Zabbix Proxy é uma solução ideal para um controle centralizado de locais remotos, filiais, não havendo a necessidade dos administradores de redes locais;
+
++ **Zabbix Agent** – A fim de acompanhar ativamente recursos e aplicações locais (como discos rígidos, memória, processador, etc.) em sistemas em rede, os sistemas devem executar o Agente Zabbix. O agente vai reunir informações operacionais do sistema em que está em execução, e informar esses dados ao Zabbix para posterior processamento. Em caso de falhas (como um disco rígido estar lotado, ou um processo parar), o servidor Zabbix pode ativamente alertar os administradores da máquina que relatou o problema;
+
+## VANTAGENS
+Controle total e centralizado, analise detalhada de cada dispositivo na rede, relatorio detalhado dos problemas ocorridos, melhora significativa no tempo de ação a desastre, aviso ou resolvimento automatico do problema ocorrido e etc...
 
 ## INSTALAÇÕES
 
