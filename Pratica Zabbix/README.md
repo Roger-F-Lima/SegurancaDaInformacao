@@ -195,5 +195,9 @@ Caso contrário:
 service zabbix-agent start
 ```
 ## Matérial de apoio
+[Instalação e monitoramento com Zabbix](https://drive.google.com/open?id=1fNiV8GKaPLxrTnThXAKRvN8I3b1uj1_M)
+[Teoria Zabbix](https://drive.google.com/open?id=1zW1ryKNX8E2gKPfxmY5uCoxA5cEm6A2M)
+[Monitoring all Elements of Your Database Operations With Zabbix ](https://pt.slideshare.net/Zabbix/monitoring-all-elements-of-your-database-operations-with-zabbix?next_slideshow=1)
+[Monitoring Solution for Everyone ](https://pt.slideshare.net/Zabbix/alexei-vladishev-zabbix-monitoring-solution-for-everyone)
 
 ## Atividade
