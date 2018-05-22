@@ -29,7 +29,7 @@ Controle total e centralizado, analise detalhada de cada dispositivo na rede, re
 ## INSTALAÇÕES
 
 ### SERVIDOR ZABBIX
-Utilizamos uma maquina com o Debina 9
+Utilizamos uma maquina com o Debian 9
 
 Tornando superusuário
 ```
