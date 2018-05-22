@@ -21,7 +21,7 @@ De acordo com o [Wikipedia](https://pt.wikipedia.org/wiki/Zabbix)
 + **Zabbix Agent** – A fim de acompanhar ativamente recursos e aplicações locais (como discos rígidos, memória, processador, etc.) em sistemas em rede, os sistemas devem executar o Agente Zabbix. O agente vai reunir informações operacionais do sistema em que está em execução, e informar esses dados ao Zabbix para posterior processamento. Em caso de falhas (como um disco rígido estar lotado, ou um processo parar), o servidor Zabbix pode ativamente alertar os administradores da máquina que relatou o problema;
 
 ## VANTAGENS
-Controle total e centralizado, analise detalhada de cada dispositivo na rede, relatorio detalhado dos problemas ocorridos, melhora significativa no tempo de ação a desastre, aviso ou resolvimento automatico do problema ocorrido e etc...
+Controle total e centralizado, analise detalhada de cada dispositivo na rede, relatorio detalhado dos problemas ocorridos, melhora significativa no tempo de ação a desastre, aviso ou resolvimento automatico do problema ocorrido, open source e etc...
 
 ## INSTALAÇÕES
 
