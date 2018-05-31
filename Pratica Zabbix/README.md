@@ -75,7 +75,9 @@ cd /usr/share/doc/zabbix-server-mysql
 zcat create.sql.gz | mysql -uzabbix -p zabbix
 ```
 Configurando o arquivo de configuração do Zabbix
-
+```
+sudo nano /etc/zabbix/zabbix_server.conf
+```
 Procure as linhas que, `DBHost=`, `DBName=`, `DBUser=` e `DBPassword=`
 Caso estejam comentadas, descomente-as e adicione as seguintes configurações:
 ```
