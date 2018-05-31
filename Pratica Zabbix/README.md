@@ -207,3 +207,5 @@ service zabbix-agent start
 
 ## Atividade
 + [Link](https://drive.google.com/open?id=1fSqxYfn0eCBov0T-yL68HVhUFMIOgPOb)
+
++ **OBS:** Desconsidere a etapa de enviar alerta
