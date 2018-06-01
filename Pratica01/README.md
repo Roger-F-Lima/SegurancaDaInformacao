@@ -68,4 +68,4 @@ Na figura abaixo podemos ver o arquivo,e as informações contidas nele
 ![imagem12](https://github.com/JardelGoncalves/SegurancaDaInformacao/blob/master/Pratica01/Imagens/granfinaly.png)
 
 
-**Todos os arquivos criado pela ferramenta estão disponiveis no direotio sqlmap deste git.**
+**Todos os arquivos criado pela ferramenta estão disponiveis no diretorio sqlmap deste git.**
