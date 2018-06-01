@@ -23,5 +23,3 @@
 
 ## Screenshot da vítima
 ![imagem5](https://github.com/JardelGoncalves/SegurancaDaInformacao/blob/master/Pratica03/05s.png)
-
-
