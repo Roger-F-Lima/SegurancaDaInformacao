@@ -27,6 +27,7 @@ sed -i 's/The Tor Browser Bundle should not be run as root.  Exiting.//' Browser
 
 ## Acessando um site que rastreia o IP
 Navegador que implementa o protocolo Tor (podemos observar a rota que a solicitação fez)
+
 Abrindo o navegador Tor
 ```
 ./Browser/start-tor-browser 2> /dev/null &
@@ -35,6 +36,7 @@ Abrindo o navegador Tor
 ![imagem2](imagens/02.png)
 
 Navegador que não implementa 
+
 ![imagem3](imagens/03.png)
 
 ## Acessando um site na Deep Web
