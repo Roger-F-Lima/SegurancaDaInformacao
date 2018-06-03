@@ -27,6 +27,11 @@ sed -i 's/The Tor Browser Bundle should not be run as root.  Exiting.//' Browser
 
 ## Acessando um site que rastreia o IP
 Navegador que implementa o protocolo Tor (podemos observar a rota que a solicitação fez)
+Abrindo o navegador Tor
+```
+./Browser/start-tor-browser 2> /dev/null &
+```
+
 ![imagem2](imagens/02.png)
 
 Navegador que não implementa 
@@ -36,6 +41,7 @@ Navegador que não implementa
 Criei um email na rede onion. Segue o site: `http://torbox3uiot6wchz.onion/`
 
 As imagens abaixo apresenta os passos: `Criar o email`, `confirmação do precedimento de criação`, `tela de acesso` e `acessando o email`, respectivamente.
+
 ![imagem4](imagens/04.png)
 
 ![imagem5](imagens/05.png)
