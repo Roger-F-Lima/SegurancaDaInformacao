@@ -25,11 +25,11 @@ sed -i 's/The Tor Browser Bundle should not be run as root.  Exiting.//' Browser
 
 ![imagem1](imagens/01.png)
 
-## Acessando um site que rastreia o ip utilizando navegadores que utiliza e não utiliza o protocolo TOR
-Navegador que implementa o protocolo Tor
+## Acessando um site que rastreia o IP
+Navegador que implementa o protocolo Tor (podemos observar a rota que a solicitação fez)
 ![imagem2](imagens/02.png)
 
-Navegador que não implementa (podemos observar a rota que a solicitação fez)
+Navegador que não implementa 
 ![imagem3](imagens/03.png)
 
 ## Acessando um site na Deep Web
