@@ -4,7 +4,7 @@
 Foram respondido todas as questões propostas.
 ## Com quem você fez.
 [Mara Vitoria](https://github.com/maravitoria04)<br>
-Sara Cibelle (Coomo ouvinte)<br>
+Sara Cibelle (Como ouvinte)<br>
 E eu, [Jardel Goncalves](https://github.com/JardelGoncalves)<br>
 
 ## Como vocês dividiram/fizeram a atividade.
@@ -48,3 +48,7 @@ O KDC ( Centro Distribuidor de Chaves ) é um servidor centralizado também resp
 
 ## 8 - Porque dá erro de cerficifado em alguns site inclusive no site da caixa?
 Porque ou o site não possui certificado digital com alguma unidade certificadora ou o certificado está vencido.
+
+
+## LEITURA DA APOSTILA (*Meu Comentario*)
+Le a apostila, achei interessante (Uma boa teoria), apesar de algumas partes estarem desatualizada, acredito que com essas praticas que estão sendo realizadas junto com essa apostila se torna um material indispensável para a disciplina.
